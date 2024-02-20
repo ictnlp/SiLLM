@@ -1,6 +1,6 @@
 Base_Model=/path/base_model
 LoRA_Weithts=/path/LoRA_weights
-Data_File=./SFT_data
+Data_File=./path/SFT_Data
 
 python finetune.py \
  --base_model  ${Base_Model} \
