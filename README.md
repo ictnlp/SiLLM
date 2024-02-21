@@ -36,8 +36,22 @@ We can execute the Wait-k policy with LLM by running the following script:
 bash Wait-k-SiLLM.sh
 ```
 
+
 ### HMT-SiLLM
 We can execute the HMT policy with LLM and get the outputs by running the following script:
 ```
 bash HMT-SiLLM.sh
+```
+
+
+## Citation
+```
+@misc{guo2024sillm,
+      title={SiLLM: Large Language Models for Simultaneous Machine Translation}, 
+      author={Shoutao Guo and Shaolei Zhang and Zhengrui Ma and Min Zhang and Yang Feng},
+      year={2024},
+      eprint={2402.13036},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
