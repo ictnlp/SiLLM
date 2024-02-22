@@ -2,6 +2,12 @@
 
 Source code for our paper "SiLLM: Large Language Models for Simultaneous Machine Translation".
 
+<div style="text-align:center;">
+  <img src="./model.PNG" alt="替代文本" width="800" height="320">
+</div>
+
+The framework of SiLLM incorporates the LLM to achieve the Simultaneous Machine Translation. It generates the translations under the guidance of the policy decided by the conventional Simultaneous Machine Translation Model.
+
 Our method is implemented based on the open-source toolkit [Alpaca-LoRA](https://github.com/tloen/alpaca-lora).
 
 ## Requirements and Installation
